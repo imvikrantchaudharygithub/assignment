@@ -35,3 +35,5 @@ class StringCalculator {
   } catch (e) {
     console.error(e.message); 
   } 
+
+// to run this code use - node script.js 
